@@ -76,7 +76,7 @@ zoom   | meters at equator     | arc seconds     | nominal arc degrees minutes s
 Credits: [Mapzen documentation](https://github.com/tilezen/joerd/edit/master/docs/data-sources.md).
 
 ## Author
-Fran Martín at [Institut Cartogràfic i Geològic de Catalunya](https://www.icgc.cat/)
+Fran Martín
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
